@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <title>
+        Video Call
+    </title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <h1>
+        Video Call<br><small style="font-size: 14pt">Powered by StarGuruvu</small>
+    </h1>
+    <h4>
+        My Feed:
+    </h4>
+    <div id="me"></div>
+
+    <h4>
+        Remote Feed:
+    </h4>
+    <div id="remote-container"></div>
+
+    <h4>
+        Canvas Feed:
+    </h4>
+    <div id="canvas-container"></div>
+<script src="scripts/AgoraRTCSDK-3.1.1.js"></script>
+<script src="scripts/script.js"></script>
+</body>
+</html>

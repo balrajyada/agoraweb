@@ -1,0 +1,18 @@
+{
+  "name": "videoone",
+  "version": "1.0.0",
+  "description": "videocall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "videocall"
+  ],
+  "author": "gokul",
+  "license": "ISC"
+ "engines": {
+    "node": "13.5.0"
+  }
+}
