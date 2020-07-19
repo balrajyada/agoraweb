@@ -11,7 +11,7 @@
     "videocall"
   ],
   "author": "gokul",
-  "license": "ISC"
+  "license": "ISC",
  "engines": {
     "node": "13.5.0"
   }
